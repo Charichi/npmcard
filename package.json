@@ -1,7 +1,7 @@
 {
   "name": "acharichi",
   "version": "2.1.1",
-  "description": "A personal card for Amine Charichi (@bitandbang)",
+  "description": "A personal card for Amine Charichi (@acharichi)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
